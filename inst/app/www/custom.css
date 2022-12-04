@@ -1,0 +1,46 @@
+.mh-458 {
+  min-height: 458px;
+}
+
+.mh-544 {
+  min-height: 544px;
+}
+
+.mh-466 {
+  min-height: 466px;
+}
+
+.mh-520 {
+  min-height: 520px;
+}
+
+.mh-490 {
+  min-height: 490px;
+}
+
+.mh-470 {
+  min-height: 470px;
+}
+
+
+.logo-pos {
+  margin-top: -2px;
+  margin-bottom: -2px;
+  padding-left: 0px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+
+
+body {
+  background-color: #FCFCFC;
+}
+
+.c-bg-grey {
+  background-color: #FCFCFC;
+}
+
+.c-border-grey-light {
+  border-color: #FFFAFA !important;
+}
+

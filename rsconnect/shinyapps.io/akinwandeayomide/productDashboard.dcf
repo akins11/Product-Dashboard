@@ -1,0 +1,14 @@
+name: productDashboard
+title: productDashboard
+username:
+account: akinwandeayomide
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7753679
+bundleId: 6564755
+url: https://akinwandeayomide.shinyapps.io/productDashboard/
+when: 1669675631.83982
+lastSyncTime: 1669675631.83987
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.Rmd|tests
